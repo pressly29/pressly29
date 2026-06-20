@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm Elvis 👋</h1>
 <h3 align="center">Software Engineer · Data Analytics MSc · Builder of fintech & trading tools</h3>
 
-<p align="center">
-  📍 Portsmouth, UK (via Kenya) &nbsp;·&nbsp; 🎓 MSc Data Analytics, University of Portsmouth
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pressly29&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -49,22 +46,21 @@ I'm a software engineer with hands-on experience building real-time dashboards a
 |---|---|
 | **[EvPNova](https://evpnova.com)** | White-label trading platform + prediction-market signal engine for Polymarket, combining free public data sources (NOAA, USGS, NASA FIRMS, Manifold) with semantic signal matching. Telegram alerting, deployed on DigitalOcean. |
 | **[Pressly Design Studios](https://github.com/pressly29/Graphic-Design)** | Digital design studio — branding, social graphics, marketing collateral. Site built on Next.js/TypeScript, deployed via Nginx/PM2 with GitHub Actions CI/CD. |
-| **PayRam Crypto Gateway** *(add repo link)* | Self-hosted crypto payment gateway, debugged to a working mainnet deployment across two DigitalOcean droplets. |
-| *(add repo link)* | KoboToolbox-based training needs assessment pipeline — Google Apps Script pulling from the Kobo API into Google Sheets, for clients in Nepal and Ghana. |
+<!-- | **PayRam Crypto Gateway** *(add repo link)* | Self-hosted crypto payment gateway, debugged to a working mainnet deployment across two DigitalOcean droplets. |
+| *(add repo link)* | KoboToolbox-based training needs assessment pipeline — Google Apps Script pulling from the Kobo API into Google Sheets, for clients in Nepal and Ghana. | -->
 
 <!-- Tell me the repo names for PayRam, your coursework repos, etc. and I'll swap these in directly, plus help you set the actual GitHub "pinned" repos to match. -->
 
-### 📊 GitHub stats
+<!-- ### 📊 GitHub stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=pressly29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pressly29&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 ### 📫 Reach me
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:presslyelviss@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](#)
-[![Website](https://img.shields.io/badge/-evpnova.com-000000?style=flat-square&logo=vercel&logoColor=white)](https://evpnova.com)
 
 <!-- Add your LinkedIn URL above — currently a placeholder -->
