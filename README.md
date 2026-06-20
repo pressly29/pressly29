@@ -2,9 +2,9 @@
 <h3 align="center">Software Engineer · Data Analytics MSc · Builder of fintech & trading tools</h3>
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pressly29&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+</p> -->
 
 ---
 
